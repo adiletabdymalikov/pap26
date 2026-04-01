@@ -70,7 +70,6 @@ export const products = [
     id: 6,
     name: 'Mood girl',
     price: 97,
-    
     color: 'green',
     image: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=500&auto=format',
     category_id: 1,
